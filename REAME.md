@@ -6,3 +6,5 @@ replacement1 = *seq*.replace('A', 't')
 --> seq2 not seq
 # BT3
 OK
+
+Em lưu ý phải ghi REAME.md giới thiệu về repo nhé !
